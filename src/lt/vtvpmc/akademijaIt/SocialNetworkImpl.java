@@ -71,9 +71,7 @@ public class SocialNetworkImpl implements SocialNetwork {
 //			index ++;
 //		}
 		
-		return 
-	
-	friends.stream()
+		return  friends.stream()
 	  .filter(x ->(firstName.equals(x.getFirstName()))&& (lastName.equals(x.getLastName())))
 	  .findAny()
 	  .orElseThrow(() -> new FriendNotFoundException(firstName,lastName));

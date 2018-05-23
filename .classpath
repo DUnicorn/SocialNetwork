@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/DoNata/Desktop/JavaNormal/SocialNetwork/exam-socialnetwork.jar"/>
 	<classpathentry kind="lib" path="C:/Users/DoNata/Desktop/JavaNormal/SocialNetwork/exam-socialnetwork-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DoNata/eclipse-workspace/SocialNetwork/SocialNetwork/exam-socialnetwork.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
